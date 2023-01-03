@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Using Create React App to Make a Blog App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Full Modern React Tutorial
+
+This project was mainly created under the guidance of the "Full Modern React Tutorial" YouTube playlist offered by The Net Ninja. A link to the playlist will be attached below:
+Link: https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d 
