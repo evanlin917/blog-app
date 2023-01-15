@@ -1,0 +1,28 @@
+{
+    "blogs": [
+        {
+            "title":"My new blog",
+            "body": "Hello there! Thanks for clicking on this blog and coming here! This blog serves as a way for me to voice my story about the life experiences and general things that I have seen as a freshmen in college. I hope that many others can see these experiences and get to share in some of the advice that I have on preparing for college, so feel free to share this blog with others!",
+            "author":"Evan",
+            "id": 1
+        },
+        {
+            "title": "Welcome to my blog!",
+            "body": "Welcome to my first blog! This is a blog where I write about the experiences of my days in college. Some of the things I'll write about includes college life tips, general experiences, and academic perspectives. To introduce myself, my name is Evan Lin and I am currently a freshmen student part of the School of Engineering here at Princeton University. I hope to major in Computer Science and some things that I enjoy about programming in general is just how a few lines of code can be used to generate a variety of different applications and programs used by people around the world. I look forward to writing more blog posts detailing my life at Princeton!",
+            "author": "Evan Lin",
+            "id": 2       
+        },
+        {
+            "title": "Life at Princeton",
+            "body": "In general, life at Princeton is pretty hard. But at the same time, the academic workload can be challenging. Here at Princeton, the students are not only the best to hang around, but also the ones who are the top of their respective fields and the brightest minds in the country and the world. Nevertheless, the work is worth the challenge and it is always refreshing to hang out and de-stress with friends after a grueling week of midterm exams!",
+            "author": "Evanski",
+            "id": 3                
+        },
+        {
+            "title":"Hello Everyone! Nice to meet you!",
+            "body": "Hello visitors! In this blog, I'll dive into the specifics and talk about who I am, along with providing some basic background details on where I am from. I hope this helps you to get to know me better!",
+            "author":"Evanski Lin",
+            "id": 4
+        }
+    ]
+}
