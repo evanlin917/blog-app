@@ -3,6 +3,7 @@ import Home from './Home';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Create from './Create';
 import BlogDetails from './BlogDetails';
+import NotFound404 from './NotFound404';
 
 function App() {
   
@@ -21,6 +22,9 @@ function App() {
           </Route>
           <Route exact path="/blogs/:id"> 
             <BlogDetails />
+          </Route>
+          <Route path="*">
+            <NotFound404 />
           </Route>
         </Switch>
       </div>
